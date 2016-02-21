@@ -1,0 +1,205 @@
+﻿.top_left_l
+{
+	width: 100px;
+	height: 25px;
+}
+.top_right_l
+{
+	width: 100px;
+	height: 25px;
+}
+.top_left_u, .top_right_u
+{
+	width: 100px;
+	height: 5px;
+	visibility: hidden;
+	background-repeat: no-repeat;
+	display: inline-block;
+}
+
+	
+.top_left_u img
+{
+	float:left;
+}
+.top_right_u img
+{
+	float: right;
+}
+
+#top_mid_logo
+{
+	margin: auto auto auto 88px;
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	z-index: 1;
+}
+.top_mid_c,.top_mid_c_
+{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	visibility:hidden;
+
+}
+#top_mid_c1,#top_mid_c1_
+{
+	margin-top: 20px;
+	margin-left: 95px;
+}
+#top_mid_c2,#top_mid_c2_
+{
+	margin-top:45px;
+	margin-left: 80px;
+}
+#top_mid_c3,#top_mid_c3_
+{
+	margin-top: 40px;
+	margin-left: 180px;
+}
+#top_mid_c4,#top_mid_c4_
+{	
+	margin-top:45px;
+	margin-left:235px;
+}
+#top_mid_c5,#top_mid_c5_	
+{
+	margin-top: 20px;
+	margin-left: 240px;
+}
+#mid_c1_cname
+{
+	width: 250px;
+	height: 25px;
+	float: left;
+}
+#mid_c1_langage
+{
+	float: right;
+	text-align: right;
+	height: 25px;
+	width: 100px;
+}
+#mid_c1_cimg
+{
+	float: left;
+	width: 600px;
+	height: 435px;
+}
+#mid_c1_cimg img
+{
+	padding-top: 45px;
+}
+/*content2*/
+#mid_c2_index
+{
+	height: 30px;
+	font-size: 15px;
+}
+#mid_c2_i1, #mid_c2_i2, #mid_c2_i3
+{
+	float: left;
+	margin-right: 40px;
+	width: 160px;
+}
+#mid_c2_i1
+{
+	margin-right: 0px;
+}
+#mid_c2_c1
+{
+	height: auto;
+	float: left;
+}	
+
+#mid_c2_c2
+{
+	height: auto;
+	float: left;
+}
+.mid_c2_c2_m
+{
+	height: auto;
+	width: 600px;
+	margin-bottom: 5px;
+	float: left;
+}
+.mid_c2_c2_c
+{
+	height:auto;
+	float:left;
+	}
+#mid_c2_c3
+{
+	height: 470px;
+	float: left;
+}
+.mid_c2_c3_m
+{
+	height: 100px;
+	width: 300px;
+	margin-bottom: 8px;
+	display: inline;
+	float: left;
+}
+.mid_c2_c3_mi
+{
+	padding: 10px;
+	width: 70px;
+	height: 70px;
+	float: left;
+}
+.mid_c2_c3_ms
+{
+	float: left;
+	height: 100px;
+	width: 200px;
+}
+
+.mid_c4_o
+{
+	width: 600px;
+	height: auto;
+	float: left;
+	margin-bottom: 10px;
+}
+.mid_c4_c
+{
+	width: 600px;
+	height: 230px;
+}
+.mid_c4_k1
+{
+	padding: 5px;
+	width: 270px;
+	height: 200px;
+	float: left;
+}
+.mid_c4_k2
+{
+	float:left;
+	margin-left:5px; 
+	margin-right:5px;
+}
+.mid_c5_o
+{
+	height: 190px;
+	width: 280px;
+	padding: 5px;
+	float: left;
+}
+.mid_c5_i
+{
+	height: auto;
+	width: 280px;
+	text-align: center;
+}
+.mid_c5_i:hover
+{
+	cursor: pointer;
+}
+.mid_c5_t
+{
+	text-align: center;
+}

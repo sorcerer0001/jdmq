@@ -1,0 +1,91 @@
+﻿body
+{
+	font-family: "微软雅黑",'Arial Unicode MS',宋体,幼圆,"Lucida Grande",'Adobe 黑体 Std R',方正姚体,Verdana, Lucida, Arial, Helvetica, sans-serif;
+	background-color: #FFFFFF;
+	font-size: 14px;
+	width: 600px;
+	margin: auto;
+}
+a
+{
+	text-decoration: none;
+	color: #000000;
+}
+img
+{
+	border-style: none;
+	border-color: inherit;
+	border-width: 0px;
+}
+#top
+{
+	width: 600px;
+	height: 100px;
+}
+#top_left
+{
+	width: 100px;
+	height: 100px;
+	float: left;
+}
+#top_mid
+{
+	width: 400px;
+	height: 100px;
+	float: left;
+}
+#top_right
+{
+	width: 100px;
+	height: 100px;
+	float: right;
+}
+#mid
+{
+	width:600px;
+	height:470px;
+	}
+#mid_content_1
+{
+	height: inherit;
+	background-color: #FFFFFF;
+}
+#mid_content_2
+{
+	height: 470px;
+	display: none;
+	background-color: #FFFFFF;
+}
+#mid_content_3
+{
+	height: auto;
+	display: none;
+	background-color: #FFFFFF;
+}
+#mid_content_4
+{
+	height: auto;
+	display: none;
+	background-color: #FFFFFF;
+}
+#mid_content_5
+{
+	height: auto;
+	display: none;
+	background-color: #FFFFFF;
+}
+#mid_content_6
+{
+	height: inherit;
+	display: none;
+	background-color: #FFFFFF;
+}
+#bot
+{
+	width: 600px;
+	height: 50px;
+	font-size: 10px;
+	text-align: center;
+	margin-top: 15px;
+	float: left;
+}
